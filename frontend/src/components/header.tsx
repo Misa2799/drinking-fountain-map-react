@@ -15,6 +15,7 @@ export function Header() {
           <Nav.Link href="/">Home</Nav.Link>
           <Nav.Link href="/register">Register</Nav.Link>
           <Nav.Link href="/login">Login</Nav.Link>
+          <Nav.Link href="/bookmarks">Bookmark</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
